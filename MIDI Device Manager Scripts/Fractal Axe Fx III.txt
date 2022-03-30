@@ -1,6 +1,6 @@
 [cubase parse file]
 [parser version 0001]
-[comment]
+[comment] Preset names are based on the Factory Preset list.
 
 [creators first name]Harley
 [creators last name]Ganiere
